@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "cognitiveapi": "https://southcentralus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/25345a18-238b-481a-8d30-4655af085f1b/detect/iterations/Iteration1/url",
+    "cognitivekey": "e543ecac28254ba6913bcfebe3af434d"
+  }
+}
